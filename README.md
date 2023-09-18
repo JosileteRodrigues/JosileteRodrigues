@@ -1,10 +1,8 @@
 ### Hi👋 My name is Josilete Rodrigues.
-**Estagiária** na https://www.cagepa.pb.gov.br/                                                                                                          ![image](https://github.com/JosileteRodrigues/JosileteRodrigues/assets/44982021/e4be3e6b-e3b3-407f-8918-b8a1be98b0c0)
-
-
+**Estagiária** na https://www.cagepa.pb.gov.br/                                                                                                          
 Apaixonada por **Tecnológias**, **Astronomia**, **Música**
 
-
+![image](https://github.com/JosileteRodrigues/JosileteRodrigues/assets/44982021/c55cc1c7-e2d4-48e5-a6f7-cfd734515187)
 
 
 
