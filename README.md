@@ -8,7 +8,7 @@ Apaixonada por **Tecnológias**, **Astronomia**, **Música**
 
 
 
-**Technologies:** ⤵️    
+### **Technologies:** ⤵️    
 ![image](https://github.com/JosileteRodrigues/JosileteRodrigues/assets/44982021/7ef30608-fa35-47f6-858a-c2dc59f10e12)
 ![image](https://github.com/JosileteRodrigues/JosileteRodrigues/assets/44982021/732f6e88-93c9-4deb-9630-0e381f7658c1)
 
@@ -19,7 +19,7 @@ Apaixonada por **Tecnológias**, **Astronomia**, **Música**
 
 
 
-**Contacts:** ⤵️
+### **Contacts:** ⤵️
 
 ![image](https://github.com/JosileteRodrigues/JosileteRodrigues/assets/44982021/4d7fcf90-7b33-4bee-a29c-de55f928c127)
 
