@@ -4,6 +4,6 @@
 
 Apaixonada por **Tecnológias**, **Astronomia**, **Música**
 
-linkedin.com/in/josilete-rodrigues-32750948 
+https://linkedin.com/in/josilete-rodrigues-32750948 
 
 
