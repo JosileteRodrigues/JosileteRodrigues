@@ -23,3 +23,4 @@ Apaixonada por **Tecnológias**, **Astronomia**, **Música**
 
 ![image](https://github.com/JosileteRodrigues/JosileteRodrigues/assets/44982021/491bb4a9-f45e-4233-8a0c-e948f7893c3d)
 
+
