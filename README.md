@@ -24,10 +24,9 @@
 
 ![image](https://github.com/JosileteRodrigues/JosileteRodrigues/assets/44982021/491bb4a9-f45e-4233-8a0c-e948f7893c3d)
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=<JosileteRodrigues>&count_private=false&show_icons=true&theme=algolia&&include_all_commits=true"/>
+ <div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosileteRodrigues&count_private=false&show_icons=true&theme=algolia&&include_all_commits=true"/>
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=<JosileteRodrigues>&layout=compact&langs_count=8&theme=tokyonight&card_width=250"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JosileteRodrigues&layout=compact&langs_count=8&theme=tokyonight&card_width=250"/>
 </div>
-
 
