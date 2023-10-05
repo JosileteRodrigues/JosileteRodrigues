@@ -8,11 +8,12 @@
 
 
 ### **Tecnologias:** ⤵️    
-![image](https://github.com/JosileteRodrigues/JosileteRodrigues/assets/44982021/7ef30608-fa35-47f6-858a-c2dc59f10e12)
-![image](https://github.com/JosileteRodrigues/JosileteRodrigues/assets/44982021/732f6e88-93c9-4deb-9630-0e381f7658c1)
+![image](https://github.com/JosileteRodrigues/JosileteRodrigues/assets/44982021/7ef30608-fa35-47f6-858a-c2dc59f10e12) ![image](https://github.com/JosileteRodrigues/JosileteRodrigues/assets/44982021/732f6e88-93c9-4deb-9630-0e381f7658c1)
 
-![image](https://github.com/JosileteRodrigues/JosileteRodrigues/assets/44982021/023284ff-e4b9-42a9-b047-405cbc4479a3)
-![image](https://github.com/JosileteRodrigues/JosileteRodrigues/assets/44982021/cb407bd5-f911-43bf-a21c-ddd76241c980)
+
+![image](https://github.com/JosileteRodrigues/JosileteRodrigues/assets/44982021/023284ff-e4b9-42a9-b047-405cbc4479a3) ![image](https://github.com/JosileteRodrigues/JosileteRodrigues/assets/44982021/cb407bd5-f911-43bf-a21c-ddd76241c980)
+
+
 
 
 
