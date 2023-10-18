@@ -7,8 +7,11 @@
 
 
 
-### **Tecnologias:** ⤵️    
+### **Tecnologias e Ferramentas:** ⤵️    
 ![image](https://github.com/JosileteRodrigues/JosileteRodrigues/assets/44982021/7ef30608-fa35-47f6-858a-c2dc59f10e12) ![image](https://github.com/JosileteRodrigues/JosileteRodrigues/assets/44982021/732f6e88-93c9-4deb-9630-0e381f7658c1)
+
+![image](https://github.com/JosileteRodrigues/JosileteRodrigues/assets/44982021/8d0948bf-0e16-49d5-8887-ef66695b85e9)
+![image](https://github.com/JosileteRodrigues/JosileteRodrigues/assets/44982021/870739c7-4228-412f-ace3-9afb566a947a)
 
 
 ![image](https://github.com/JosileteRodrigues/JosileteRodrigues/assets/44982021/023284ff-e4b9-42a9-b047-405cbc4479a3) ![image](https://github.com/JosileteRodrigues/JosileteRodrigues/assets/44982021/cb407bd5-f911-43bf-a21c-ddd76241c980)
