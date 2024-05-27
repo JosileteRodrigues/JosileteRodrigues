@@ -1,7 +1,7 @@
  ### Hi👋 My name is Josilete Rodrigues ###
 **Suporte Técnico Jr** na https://www.upchip.com.br/
 
-**Estagiária** na https://www.cagepa.pb.gov.br/
+**Estagiou** na https://www.cagepa.pb.gov.br/
 
 **Tutora** Iniciativa **CODE**
 
